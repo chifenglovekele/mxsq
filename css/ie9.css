@@ -1,0 +1,6 @@
+/**rgba兼容ie8、ie9**/
+.role-right,.at-right {
+   background:transparent;
+   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#c8000000,endColorstr=#c8000000);
+   zoom: 1;
+}
